@@ -4,7 +4,7 @@
     "symbol": "NB",
     "sellerFeeBasisPoints": 500,
     "gatekeeper": null,
-    "solTreasuryAccount": "YOUR_WALLET_ADDRESS",
+    "solTreasuryAccount": "D8YQrwxuAM3HZre7oFKyRbUxsy1WPJ2WLzxGSknqcGuc",
     "splTokenAccount": null,
     "splToken": null,
     "goLiveDate": "2022-07-24T00:00:00Z",
@@ -17,7 +17,7 @@
     "isMutable": true,
     "creators": [
     {
-      "address": "YOUR_WALLET_ADDRESS",
+      "address": "D8YQrwxuAM3HZre7oFKyRbUxsy1WPJ2WLzxGSknqcGuc",
       "share": 100
     }
   ]
